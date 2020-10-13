@@ -15,6 +15,9 @@
 6. **train_darknet.py** is used to train darknet on custom dataset.
 7. **Introduction to Yolo_v3 License Plate Detector** PPT file with project description.
 
+### Folder Structure
+![alt text](https://github.com/nogifeet/Vehicle-License-Plate-/blob/main/images/Capture.PNG "Folder Structure")
+
 
 
 
