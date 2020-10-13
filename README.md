@@ -1,8 +1,6 @@
 # Vehicle-License-Plate-
 ### Vehicle License Plate Detection Using Yolo_v3 darknet
 
-###### For a more detailed explanation refer to Introduction to Yolo_v3 License Plate Datector
-
 ![alt text](https://github.com/nogifeet/Vehicle-License-Plate-/blob/main/images/yolo.jpg "Yolo")
 
 ### File Description
@@ -18,6 +16,7 @@
 ### Folder Structure
 ![alt text](https://github.com/nogifeet/Vehicle-License-Plate-/blob/main/images/Capture.PNG "Folder Structure")
 
+###### For a more detailed explanation refer to Introduction to Yolo_v3 License Plate Datector
 
 
 
